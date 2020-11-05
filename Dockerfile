@@ -1,1 +1,2 @@
-FROM docker-whale:latest
+FROME dockersamples/static-site
+ENV AUTHOR="kanji Okada"
